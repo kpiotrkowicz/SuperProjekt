@@ -1,1 +1,3 @@
-//cos tu jest napisane
+//cos tu jest napisane\
+moe
+//lol
