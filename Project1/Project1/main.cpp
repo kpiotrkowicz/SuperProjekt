@@ -3,13 +3,6 @@
 
 int main() {
 
-	cout << "a";
-		cout << "a";
-	cout << "a";
-	cout << "a";
-	cout << "a";
-	cout << "a";
-
-		cout << "a";
+	cout << "Tutaj zmiana 2b";
 	return 0;
 }
