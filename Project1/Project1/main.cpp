@@ -3,6 +3,7 @@
 
 int main() {
 
+	cout << ":asdiajfisdf";
 	cout << "a";
 	return 0;
 }
