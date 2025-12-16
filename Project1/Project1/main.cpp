@@ -6,21 +6,8 @@ void d() {
 }
 int main() {
 
-	cout << ":asdiajfisdf";
-	cout << "a";
-		cout << "a";
-	cout << "a";
-	cout << "a";
-	cout << "a";
-	cout << "a";
-
-		cout << "a";
-
-		int a;
-		cin >> a;
-	for (;;) {
-		cout << "as";
-	}
+	//gowno
+	//jd
 
 	return 0;
 }
