@@ -21,7 +21,7 @@ int main() {
 	for (;;) {
 		cout << "as";
 	}
-
+	cout << "as"; cout << "as";
 	return 0;
 }
 //test
